@@ -31,3 +31,5 @@ This project, developed as part of my Semester 4 Enterprise Programming course, 
    ```bash
    git clone https://github.com/ByteTribeGroup/CampManagement.git
 ![screencapture-localhost-8080-test1-UserController-2024-11-07-12_06_57](https://github.com/user-attachments/assets/e4224d08-94f1-4a29-8e9d-446360f11af9)
+![screencapture-localhost-8080-test1-index-jsp-2024-11-07-12_04_57](https://github.com/user-attachments/assets/e2b2ee98-27f8-485d-9929-83dd1f47be40)
+![Screenshot 2024-11-07 120259](https://github.com/user-attachments/assets/8e5b562f-4789-4556-8fc9-70996ae8ceff)
