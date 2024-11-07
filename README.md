@@ -30,3 +30,4 @@ This project, developed as part of my Semester 4 Enterprise Programming course, 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ByteTribeGroup/CampManagement.git
+![screencapture-localhost-8080-test1-UserController-2024-11-07-12_06_57](https://github.com/user-attachments/assets/e4224d08-94f1-4a29-8e9d-446360f11af9)
