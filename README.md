@@ -29,4 +29,4 @@ This project, developed as part of my Semester 4 Enterprise Programming course, 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/camping-booking-system.git
+   git clone https://github.com/ByteTribeGroup/CampManagement.git
